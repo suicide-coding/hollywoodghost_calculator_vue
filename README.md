@@ -1,4 +1,4 @@
-# 🦊 HollywoodGhost Calculator
+# 🦊 Calculator
 
 A beautiful calculator in the style of cute Japanese design
 ![screenshot](./screenshot.png)
@@ -22,4 +22,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ---
 
 ## 📢 Project Telegram Channel
-[HollywoodGhost Project on Telegram](https://t.me/HollywoodGhost_Project)
+[suicide coding on Telegram](https://t.me/suicide_coding)
